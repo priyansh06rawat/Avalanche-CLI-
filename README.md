@@ -11,6 +11,20 @@ DeFi Kingdoms is a highly complex decentralized finance application that cannot 
 
 **4. Deploy basic building blocks**: You can use Solidity and Remix to deploy the basic building blocks of your game, such as smart contracts for battling, exploring, and trading. These contracts will define the game rules, such as liquidity pools, tokens, and more.
 With these steps, you can create a DeFi Kingdom clone on Avalanche that allows players to collect, build, and earn rewards for their participation in the game's activities
+### Step by Step:
+1. Deploy your EVM subnet using the Avalanche CLI
+   
+2. Add your Subnet to Metamask
+   - Make sure it is your selected network in Metamask
+     
+3. Connect Remix to your Metamask
+   - Use the Injected Provider
+     
+4. Deploy the smart-contracts
+   
+5. Test you application!
+   - Using remix to interact with your deployed smart-contracts, deploy tokens, pools, and more.
+     
 ### Tools Used:
 * Ubuntu terminal
 
